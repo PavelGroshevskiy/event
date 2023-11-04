@@ -1,0 +1,17 @@
+.card {
+	width: 305px;
+	height: 358px;
+	position: relative;
+}
+
+.card img {
+	position: absolute;
+	border-radius: 15px;
+}
+
+.card_text {
+	position: absolute;
+	bottom: 15px;
+	left: 10px;
+	color: var(--white);
+}

@@ -1,0 +1,14 @@
+.footer {
+	display: grid;
+	grid-template-columns: auto 1fr auto;
+	gap: 40px;
+	background: var(--white);
+	height: 129px;
+	padding: 30px;
+	color: var(--gray-footer);
+}
+
+.footer a:hover {
+	cursor: pointer;
+	color: rgb(186, 203, 203);
+}
